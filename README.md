@@ -234,4 +234,4 @@ This repository serves as the official landing page for PLAYERUNKNOWN'S BATTLEGR
 **Get the most recent version of PLAYERUNKNOWN'S BATTLEGROUNDS today!**
 
 ---
-**Last updated:** 2026-10-06 12:50:13 UTC
+**Last updated:** 2026-10-06 18:47:38 UTC
